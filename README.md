@@ -1,1 +1,1 @@
-# Intelig-ncia-Artificial-Aplicada-a-Dados-Reais
+# InteligênciaArtificialAplicadaDadosReais
