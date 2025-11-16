@@ -1,0 +1,18 @@
+Activation: relu
+Learning rate: 0.005
+Test loss: 0.380370
+Test accuracy: 0.865800
+
+Classification report:
+              precision    recall  f1-score   support
+
+           0     0.8837    0.9202    0.9016      6681
+           1     0.8248    0.7563    0.7891      3319
+
+    accuracy                         0.8658     10000
+   macro avg     0.8543    0.8382    0.8453     10000
+weighted avg     0.8642    0.8658    0.8642     10000
+
+Confusion matrix:
+[[6148  533]
+ [ 809 2510]]

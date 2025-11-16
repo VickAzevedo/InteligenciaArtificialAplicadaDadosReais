@@ -1,0 +1,18 @@
+Activation: sigmoid
+Learning rate: 0.005
+Test loss: 0.410341
+Test accuracy: 0.865200
+
+Classification report:
+              precision    recall  f1-score   support
+
+           0     0.9033    0.8939    0.8986      6681
+           1     0.7908    0.8075    0.7990      3319
+
+    accuracy                         0.8652     10000
+   macro avg     0.8471    0.8507    0.8488     10000
+weighted avg     0.8660    0.8652    0.8655     10000
+
+Confusion matrix:
+[[5972  709]
+ [ 639 2680]]

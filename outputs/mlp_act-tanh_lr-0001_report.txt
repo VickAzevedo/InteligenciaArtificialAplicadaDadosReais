@@ -1,0 +1,18 @@
+Activation: tanh
+Learning rate: 0.001
+Test loss: 0.474405
+Test accuracy: 0.860100
+
+Classification report:
+              precision    recall  f1-score   support
+
+           0     0.8968    0.8934    0.8951      6681
+           1     0.7871    0.7930    0.7900      3319
+
+    accuracy                         0.8601     10000
+   macro avg     0.8419    0.8432    0.8426     10000
+weighted avg     0.8604    0.8601    0.8602     10000
+
+Confusion matrix:
+[[5969  712]
+ [ 687 2632]]
